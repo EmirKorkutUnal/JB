@@ -2,7 +2,7 @@
 This code can be used to change the background color of most elements Jupyter Notebook.<br>
 It also contains a width modifier for widescreen monitors.<br>
 Feel free to use, modify and share.<br><br>
-<h2>How to install</h2><br>
+<h2>How to install</h2>
 1) Find the .jupyter folder. Default location would be C:\Users\YOURUSERNAME\.jupyter<br><br>
 <img src="https://github.com/EmirKorkutUnal/JB/blob/master/Screenshots/Location.jpg"><br>
 2) Create a folder named "custom" inside that folder.<br><br>
@@ -21,7 +21,7 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 &nbsp&nbsp&nbsp&nbspa) Defined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find a list of CSS defined colors here: https://www.w3schools.com/cssref/css_colors.asp<br>
 &nbsp&nbsp&nbsp&nbspb) Undefined colors:<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find use hex notation for any undefined colors. Example: #ffffff is black.<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find use hex notation for any undefined colors. Example: #ffffff is black.<br><br>
 
 <h2>How to edit width</h2>
 1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
