@@ -17,7 +17,7 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 <h2>How to edit colors</h2><br>
 1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
 2) Locate all words that say "lightgrey".<br>
-3) Change it to any color you like.<br>
+3) Change them to any color you like.<br>
 &nbsp&nbsp&nbsp&nbspa) Defined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find a list of CSS defined colors here: https://www.w3schools.com/cssref/css_colors.asp<br>
 &nbsp&nbsp&nbsp&nbspb) Undefined colors:<br>
