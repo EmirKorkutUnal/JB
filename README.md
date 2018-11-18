@@ -4,7 +4,6 @@ It also contains a width modifier for widescreen monitors.<br>
 Feel free to use, modify and share.<br><br>
 <h2>How to install</h2><br>
 1) Find the .jupyter folder. Default location would be C:\Users\YOURUSERNAME\.jupyter<br>
-<img src="https://github.com/EmirKorkutUnal/JB/blob/master/Screenshots/Location.jpg">
 2) Create a folder named "custom" inside that folder.<br>
 3) Download the custom.css file listed here.<br>
 4) Copy or move the custom.css file into your "custom" folder.<br><br>
