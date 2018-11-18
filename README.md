@@ -22,3 +22,8 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find a list of CSS defined colors here: https://www.w3schools.com/cssref/css_colors.asp<br>
 &nbsp&nbsp&nbsp&nbspb) Undefined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find use hex notation for any undefined colors. Example: #ffffff is black.<br>
+
+<h2>How to edit width</h2><br>
+1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
+2) Locate the word that says "1500px".<br>
+3) Change "1500" to any number you like.<br>
