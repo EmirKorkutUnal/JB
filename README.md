@@ -17,5 +17,5 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 3) Change it to any color you like.<br>
 &nbsp&nbsp&nbsp&nbspa) Defined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find a list of CSS defined colors here: https://www.w3schools.com/cssref/css_colors.asp<br>
-&nbsp&nbsp&nbsp&nbspa) Undefined colors:<br>
+&nbsp&nbsp&nbsp&nbspb) Undefined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find use hex notation for any undefined colors. Example: #ffffff is black.<br>
