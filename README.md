@@ -14,7 +14,7 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 <img src="https://github.com/EmirKorkutUnal/JB/blob/master/Screenshots/SS1.jpg"><br>
 <img src="https://github.com/EmirKorkutUnal/JB/blob/master/Screenshots/SS2.jpg"><br>
 
-<h2>How to edit colors</h2><br>
+<h2>How to edit colors</h2>
 1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
 2) Locate all words that say "lightgrey".<br>
 3) Change them to any color you like.<br>
@@ -23,7 +23,7 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 &nbsp&nbsp&nbsp&nbspb) Undefined colors:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbspYou can find use hex notation for any undefined colors. Example: #ffffff is black.<br>
 
-<h2>How to edit width</h2><br>
+<h2>How to edit width</h2>
 1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
 2) Locate the word that says "1500px".<br>
 3) Change "1500" to any number you like.<br>
