@@ -16,9 +16,8 @@ Voila! Now you can use your Jupyter Notebook with your custom background colors.
 <h2>UPDATE: For Jupyter 6.0</h2><br>
 If you have installed a Jupyter version beginning with the number '6', you need to follow these steps:<br>
 1) Use the "Run" application of Windows; type ".jupyter".<br>
-2) Double click on that folder, then find the folder named "custom" and double click that one too.
-3) You'll find a css file named "custom". You may edit this file as you please - just copy the css file located 
-
+2) Double click on that folder, then find the folder named "custom" and double click that one too.<br>
+3) You'll find a css file named "custom". You may edit this file as you please - just copy the text located in the css file of this repository and paste it underneath the text of the original file.
 <h2>How to edit colors</h2>
 1) Open the custom.css file with Notepad, Wordpad or a similar text editor.<br>
 2) Locate all words that say "lightgrey".<br>
